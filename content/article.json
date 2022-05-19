@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://anakjajan.com/",
+    "thumbnail": "https://anakjajan.files.wordpress.com/2020/11/cover-2.jpg?w=768&h=426&crop=1",
+    "judul": "Anak Jajan",
+    "description": "Pada menu website, kamu bisa menemukan rekomendasi tempat makan yang dikategorikan sesuai tipe makanan, lokasi (dari dalam hingga luar negeri) dan mal atau tempat nongkrong di daerah seputaran Jakarta.",
+    "content": "anakjajan.md"
+  },
+  {
+    "url": "https://notjessfashion.com/category/blogtips/",
+    "thumbnail": "https://notjessfashion.com/wp-content/uploads/2020/12/New-39-450x300@2x.jpg",
+    "judul": "Jess Fashion",
+    "description": "Bagi penyuka fashion, blog ini merupakan salah satu contoh website pribadi yang patut jadi inspirasi. Memulai blognya tahun 2014, Jessica Wang merupakan top fashion blogger dan digital influencer terkemuka di New York.",
+    "content": "fashion.md"
+  }
+]
