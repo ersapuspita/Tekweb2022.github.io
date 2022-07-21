@@ -332,17 +332,32 @@ classDiagram
         + jurusan: string
         + desc1: string
         + desc2: string
+        + getAllUser()
+        + getUserById()
+        + createUser()
+        + updateUser()
+        + deleteUser()
     }
     class galery{
         # id: int
         + thumbnail: string
         + title: string
         + content: string
+        + getAllGalery()
+        + getGaleryById()
+        + createGalery()
+        + updateGalery()
+        + deleteGalery()
     }
     class article{
         # id: int
         + thumbnail_url: string
         + title: string
         + content: string
+        + getAllArticle()
+        + getArticleById()
+        + createArticle()
+        + updateArticle()
+        + deleteArticle()
     }
 ```
