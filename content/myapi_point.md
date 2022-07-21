@@ -6,6 +6,7 @@ Berikut adalah api point yang digunakan untuk membangun portfolio saya di antara
 
 > getAllUser()
 
+```
 GET: /portfoliousers
 
 response:
@@ -21,3 +22,4 @@ response:
     },
     ...
 ]
+```
